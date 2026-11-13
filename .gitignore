@@ -1,0 +1,16 @@
+﻿# clion
+.idea/
+# vs
+.vs
+.workbuddy
+
+uploads
+runs
+tmp
+dist
+build
+venv
+tests/*
+__pycache__
+app/__pycache__
+static/storage
